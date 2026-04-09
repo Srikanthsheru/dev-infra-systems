@@ -1,0 +1,3 @@
+ git fetch: git fetch will bring the changes from remote github branch to intermediatory branch called as "origin/branch_name".
+       eg: github remote branch: main, develop
+           intermediatory branch; origin/main,
